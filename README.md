@@ -19,7 +19,7 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
 <li><b>Note:</b> Username/Password will be displayed in admin panel</li></ol></p><br>
-<h2> Available phishing sites/templates</h2>
+<font color=red><h2> Available phishing sites/templates</h2></font>
 <details>
 <summary>Click me to view sites</summary>
 <br><ol><li>Facebook_desktop_homepage</li>
