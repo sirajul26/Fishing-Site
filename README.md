@@ -39,9 +39,11 @@ git clone https://github.com/graysuit/grayfish.git
 <h2> Gray Fish Admin Panel Default user & pass:</h2>
 <ul><li>Username = <b>fish</b></li>
 <li>Password = <b>fish</b></li></ul>
-<h2> Video tutorial</h2>
+<h2> Video tutorial </h2>
 <center>
-<a href="https://youtu.be/PZ4qqaF1XWw"><img src="https://i.ibb.co/Lzhb2YZ/gray-fish-video.jpg" width="600" height="400" ></a></center>
+<a href="https://youtu.be/PZ4qqaF1XWw"><img src="https://i.ibb.co/GHjDzrB/facebook-mobile-fake-security-optimized.png" width="600" height="400" ></a><br><a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-grayfish-0206861/">NULL-Byte</a></center>
+<h2></h2>
+<a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-grayfish-0206861/"><img src="https://i.ibb.co/NnvRjr8/null.jpg" width="600" height="400"></a>
 <h2>How they detect phishing?</h2>
 <p>Different websites use different algorithms + user-agents + IPs to detect phishing. If they found similarities to original login pages then they simply block the phishing URL and also report it to host provider. And thus your account suspended.</p>
 <p><b>What if we detect and allow only users with a user-agent?</b></p>
