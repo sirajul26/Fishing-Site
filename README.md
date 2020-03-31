@@ -26,7 +26,7 @@ git clone https://github.com/graysuit/grayfish.git
 <details>
 <summary>Click me to view sites</summary>
 <br><ol><li>Facebook_desktop_homepage</li>
-<li>Facebook_mobile</li>
+<li>Facebook_mobile + 2FA</li>
 <li>Facebook_mobile_fake_security</li>
 <li>Github</li>
 <li>Instagram</li>
