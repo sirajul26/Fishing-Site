@@ -30,6 +30,7 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Facebook_mobile + 2FA</li>
 <li>Facebook_mobile_fake_security</li>
 <li>Github</li>
+<li>Garena Free Fire</li>
 <li>Instagram</li>
 <li>Linkedin</li>
 <li>Netflix</li>
