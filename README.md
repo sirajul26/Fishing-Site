@@ -1,5 +1,6 @@
-<h1> Update 2020.March.03</h1>
-added FB mobile 2 Factor Authentication template
+<h1> What's new ? </h1>
+2020.March.03 = added FB mobile 2 Factor Authentication template
+2020.April.24 = added Garena Free Fire (Mobile Game)
 <h1> Gray Fish v2020.03</h1>
 <p>Gray Fish provides fully undetectable phishing pages. Are you bored of getting link blocked by facebook or other sites? Does your hosting provider suspend your account(e.g 000webhost)? Don't lose hope. Try Gray Fish. Hackers are 10 times more clever than simple programmers. But they don't tell you everything. <b>Before using it, make sure to read all article to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
