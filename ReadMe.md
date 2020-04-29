@@ -27,7 +27,8 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
 <li><b>Note:</b> Username/Password will be displayed in admin panel</li></ol></p><br>
-<font color=red><h2> Available phishing sites/templates</h2></font>
+<center><img src="https://img.wonderhowto.com/img/15/72/63704809025462/0/phish-for-social-media-other-accounts-with-grayfish.w1456.jpg" style="width:100%;align:middle;border:0;" alt="Gray Fish"></center>
+<h2> Available phishing sites/templates</h2>
 <details>
 <summary>Click me to view sites</summary>
 <br><ol><li>Facebook_desktop_homepage</li>
