@@ -1,6 +1,7 @@
 <h1> What's new ? </h1>
 2020.March.03 = added FB mobile 2 Factor Authentication template<br>
 2020.April.24 = added Garena Free Fire (Mobile Game)
+2020.April.29 = added Facebook Desktop Static
 <h1> I am looking for ? </h1>
 Next pages will be of google, microsoft.
 If anyone willing to provide then we will appreciate them.
@@ -30,6 +31,7 @@ git clone https://github.com/graysuit/grayfish.git
 <details>
 <summary>Click me to view sites</summary>
 <br><ol><li>Facebook_desktop_homepage</li>
+<li>Facebook_desktop_static</li>
 <li>Facebook_mobile + 2FA</li>
 <li>Facebook_mobile_fake_security</li>
 <li>Github</li>
