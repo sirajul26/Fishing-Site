@@ -42,6 +42,7 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Garena Free Fire</li>
 <li>Instagram</li>
 <li>Linkedin</li>
+<li>Microsoft</li>
 <li>Netflix</li>
 <li>Protonmail</li>
 <li>Snapchat</li>
