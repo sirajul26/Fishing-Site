@@ -1,10 +1,11 @@
 <h1> What's new ? </h1>
 2020.March.03 = added FB mobile 2 Factor Authentication template<br>
 2020.April.24 = added Garena Free Fire (Mobile Game)<br>
-2020.April.29 = added Facebook Desktop Static
+2020.April.29 = added Facebook Desktop Static<br>
+2020.May.06 = added Microsoft
 <h1> To Do:</h1>
-<ul><li>google</li>
-<li>microsoft</li>
+<ul><li><del>microsoft</del></li>
+<li>google</li>
 <li>Support for linux</li></ul>
 If anyone willing to contribute then we will warmly appreciate them.
 <h1> Gray Fish v2020.04</h1>
