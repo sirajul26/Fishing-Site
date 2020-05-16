@@ -56,8 +56,9 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Password = <b>fish</b></li></ul>
 <h2> Tutorials on GrayFish by:</h2>
 <ul><li><a href="https://youtu.be/PZ4qqaF1XWw">Youtube Video</a></li>
-<li><a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-grayfish-0206861/">Null Byte Article</a></li></ul>
-<h2> Contact me personally (want to learn?)</h2>
+<li><a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-grayfish-0206861/">Null Byte Article</a></li>
+<li><a href="https://github.com/graysuit/grayfish/blob/master/readme_extra.md">Extra things</a></li></ul>
+<h2> Contact me :</h2>
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
 <li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li></ul>
