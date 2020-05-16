@@ -79,4 +79,7 @@ git clone https://github.com/graysuit/grayfish.git
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
 <li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li></ul>
+
+[![Gitter](https://badges.gitter.im/ha3kre/community.svg)](https://gitter.im/ha3kre/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
