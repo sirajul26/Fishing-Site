@@ -2,7 +2,7 @@
 2020.March.03 = added FB mobile 2 Factor Authentication template<br>
 2020.April.24 = added Garena Free Fire (Mobile Game)<br>
 2020.April.29 = added Facebook Desktop Static<br>
-2020.May.06 = added Microsoft <a href="http://github.com/graysuit/grayfish/issues/2">#2</a>
+2020.May.06 = added Microsoft <a href="http://github.com/graysuit/grayfish/issues/2">#2</a><br>
 2020.June.03 = added Dropbox <a href="http://github.com/graysuit/grayfish/issues/3">#3</a><br>
 <h1> To Do:</h1>
 <ul><li><del>microsoft</del></li>
