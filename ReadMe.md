@@ -1,9 +1,6 @@
-<h1> What's new ? </h1>
-2020.March.03 = added FB mobile 2 Factor Authentication template<br>
-2020.April.24 = added Garena Free Fire (Mobile Game)<br>
-2020.April.29 = added Facebook Desktop Static<br>
-2020.May.06 = added Microsoft <a href="http://github.com/graysuit/grayfish/issues/2">#2</a><br>
-2020.June.03 = added Dropbox <a href="http://github.com/graysuit/grayfish/issues/3">#3</a><br>
+<h1> Update 2020.09.11</h1>
+Not getting time to maintain. If anyone willing to maintain its code I will make him maintainer.(requirement:middle level knowlege of php,html)
+Please open issue <a href="https://github.com/graysuit/grayfish/issues">here</a>.
 <h1> To Do:</h1>
 <ul><li><del>microsoft</del></li>
 <li>google</li>
