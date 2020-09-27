@@ -1,11 +1,5 @@
-<h1> Update 2020.09.11</h1>
-Not getting time to maintain. If anyone willing to maintain its code I will make him maintainer.(requirement:middle level knowlege of php,html)
-Please open issue <a href="https://github.com/graysuit/grayfish/issues">here</a>.
-<h1> To Do:</h1>
-<ul><li><del>microsoft</del></li>
-<li>google</li>
-<li>Support for linux</li></ul>
-If anyone willing to contribute then we will warmly appreciate them.
+<h1> Lack of Maintenance 2020.Sept.27</h1>
+<a href="https://github.com/graysuit/grayfish/issues/4">Fork and maintain</a>
 <h1> Gray Fish v2020.04</h1>
 <p>Gray Fish provides fully undetectable phishing pages. Are you bored of getting link blocked by facebook or other sites? Does your hosting provider suspend your account(e.g 000webhost)? Don't lose hope. Try Gray Fish. Hackers are 10 times more clever than simple programmers. But they don't tell you everything. <b>Before using it, make sure to read all article to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
