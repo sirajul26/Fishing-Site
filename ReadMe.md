@@ -1,11 +1,10 @@
 <h1> Lack of Maintenance 2020.Sept.27</h1>
 <a href="https://github.com/graysuit/grayfish/issues/4">Fork and maintain</a>
 <h1> Gray Fish v2020.04</h1>
-<p>Gray Fish provides fully undetectable phishing pages. Are you bored of getting link blocked by facebook or other sites? Does your hosting provider suspend your account(e.g 000webhost)? Don't lose hope. Try Gray Fish. Hackers are 10 times more clever than simple programmers. But they don't tell you everything. <b>Before using it, make sure to read all article to avoid any problem.</b></p>
+<p>Gray Fish contains phishing pages. <b>Before using it, make sure to read guide to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
 <h2> Features</h2>
-<ul><li>Fully undetectable (means Link will not get blocked + Hosting provider will not suspend your account).</li>
-<li>Almost, all Templates are under 20KBs that helps in loading webpages fast.</li>
+<ul><li>Almost, all Templates are under 20KBs that helps in loading webpages fast.</li>
 <li>Images are encoded in base64 to avoid external + internal linking.</li>
 <li>Codes are highly compressed. Extra codes have been removed.</li>
 <li>Login form can't be bypass until all inputs have been filled by a victim.</li>
@@ -56,7 +55,4 @@ git clone https://github.com/graysuit/grayfish.git
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
 <li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li></ul>
-
-[![Gitter](https://badges.gitter.im/ha3kre/community.svg)](https://gitter.im/ha3kre/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
