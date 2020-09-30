@@ -17,4 +17,4 @@
 <p>We publicized this knowledge to make developers acknowledged of their vulnerabilities + to make new programmers more clever.</p>
 <p><b>Don't use this source code for illegal purposes.</b> But if you do, this will on to you, I will not/never take any responsibility for your crime.</p>
 <h2> License</h2>
-<p>Don't know much about license. I am not lawyer. But anyone can use this code, mode, reverse or anything they want. Thanks.</p>
+https://github.com/graysuit/grayfish/blob/master/LICENSE
