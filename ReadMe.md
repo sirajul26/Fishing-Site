@@ -1,5 +1,7 @@
 project moved to https://github.com/DarkSecDevelopers/LitePhish
 <h1> Gray Fish v2020.04</h1>
+<a href=https://discord.gg/Hu5XPGMTuk><img src=https://img.shields.io/discord/787203724975931413?label=discord /></a>
+
 <p>Gray Fish contains phishing pages. <b>Before using it, make sure to read guide to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
 <h2> Features</h2>
@@ -54,5 +56,7 @@ git clone https://github.com/graysuit/grayfish.git
 <h2> Contact me :</h2>
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
-<li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li></ul>
+<li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li>
+<li>Discord: <a href="https://discord.gg/Hu5XPGMTuk"><b>Fishes</b></a></li>
+</ul>
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
