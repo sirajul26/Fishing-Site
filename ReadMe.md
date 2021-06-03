@@ -52,9 +52,10 @@ git clone https://github.com/graysuit/grayfish.git
 <ul><li><a href="https://www.facebook.com/ncybersec/videos/430378990922089/">Facebook Video</a></li>
 <li><a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-grayfish-0206861/">Null Byte Article</a></li>
 <li><a href="https://esgeeks.com/gray-fish-paginas-phishing-indetectables/">Spanish Article + video <b>Páginas de Phishing Totalmente Indetectables</b></a></li>
+<li>English Article<a href="https://freelearningtech.in/how-hackers-create-undetectable-phishing-pages/">How hackers create undetectable phishing pages?</b></a></li>
 <h2> <li><a href="https://github.com/graysuit/grayfish/blob/master/readme_extra.md">Extra things</a></li></ul></h2> 
 <h2> Contact me :</h2>
-<ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
+<ul>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
 <li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li>
 <li>Discord: <a href="https://discord.gg/Hu5XPGMTuk"><b>Fishes</b></a></li>
