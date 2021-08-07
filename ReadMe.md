@@ -58,6 +58,6 @@ git clone https://github.com/graysuit/grayfish.git
 <ul>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
 <li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li>
-<li>Discord: <a href="https://discord.gg/Hu5XPGMTuk"><b>Fishes</b></a></li>
+<li>Discord: <a href="https://discord.gg/JeBrJNvzuK"><b>Fishes</b></a></li>
 </ul>
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
