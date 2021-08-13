@@ -1,6 +1,6 @@
 project moved to https://github.com/DarkSecDevelopers/LitePhish
 <h1> Gray Fish v2020.04</h1>
-<a href=https://discord.gg/Hu5XPGMTuk><img src=https://img.shields.io/discord/787203724975931413?label=discord /></a>
+<a href=https://discord.gg/JeBrJNvzuK><img src=https://img.shields.io/discord/873544368982720593?label=discord /></a>
 
 <p>Gray Fish contains phishing pages. <b>Before using it, make sure to read guide to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
