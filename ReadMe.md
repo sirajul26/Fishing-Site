@@ -1,4 +1,4 @@
-project moved to https://github.com/DarkSecDevelopers/LitePhish
+project moved to https://github.com/graysuit/LitePhish
 <h1> Gray Fish v2020.04</h1>
 <a href=http://graysuit.github.io><img src=https://img.shields.io/discord/873544368982720593?label=discord /></a>
 
