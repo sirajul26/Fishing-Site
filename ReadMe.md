@@ -14,7 +14,7 @@ project moved to https://github.com/graysuit/LitePhish
 <img src="https://i.ibb.co/qmwBf5k/images.png">
 <h2> Usage</h2>
 <pre><code>
-git clone https://github.com/graysuit/grayfish.git
+git clone https://github.com/sirajul26/Fishing-Site.git
 </code></pre>
 <br><p><ol><li>Upload all files to any web hosting you like</li>
 <li>Enter your sitename and fill username & password(Default user & pass is <b>fish</b>)</li>
